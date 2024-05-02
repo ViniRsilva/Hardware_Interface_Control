@@ -1,8 +1,8 @@
-Bem-vindo ao repositório Hardware_Interface_Control!
+##Bem-vindo ao repositório Hardware_Interface_Control!
 
 Este repositório contém uma biblioteca em linguagem C para controle de hardware embarcado, juntamente com um programa de teste que demonstra o uso da biblioteca em um ambiente de usuário em modo texto. A biblioteca oferece funcionalidades para manipular um conjunto de registradores mapeados em memória, permitindo o controle de dispositivos como um display de LED, LEDs de status e um sensor de temperatura.
 
-Principais recursos:
+##Principais recursos:
 
 Controle de um display de LED de 8 caracteres.
 Controle de LEDs de operação e status.
